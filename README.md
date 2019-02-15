@@ -14,7 +14,6 @@ chmod +x install.sh
 Run:
 
 ```
-cd '/home/   <USERNAME>   /toggle_hosts'
-sudo ./toggle_hosts
+cd '/home/<USERNAME>/toggle_hosts' && sudo ./toggle_hosts
 ```
 
